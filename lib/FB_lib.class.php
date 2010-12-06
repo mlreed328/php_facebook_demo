@@ -13,7 +13,7 @@ if (!defined( APP_PAGE ) )
 if (!defined( GRAPH_ENDPOINT ) )	define( 'GRAPH_ENDPOINT', 'https://graph.facebook.com/' );
 if( !defined(APP_ID) ) 				define( 'APP_ID', '166276383410958' );
 if( !defined(FB_API_KEY) ) 			define( 'FB_API_KEY', '044803dab154bf8ae2ac4acdbd5fd8a6' );
-if( !defined(FB_SECRET) ) 			define( 'FB_SECRET', '4fc411bb87d3ee5c4de2896622edf05c' );
+if( !defined(FB_SECRET) ) 			define( 'FB_SECRET', '' );
 if( !defined(APP_URL) ) 			define( 'APP_URL', 'http://apps.facebook.com/php_demo' ); 
 if( !defined(DIRECT_URL) ) 			define( 'DIRECT_URL', 'http://michaelreed.org/php_fb_demo/' );
 if( !defined(AUTH_URL) ) 			define( 'AUTH_URL', 'http://michaelreed.org/php_fb_demo/' );
